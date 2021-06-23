@@ -1,15 +1,15 @@
 ## Welcome to Stellar Restaurant Website Repository.
-
+[![FontEnd project | © 2021 by lenhu]
 ## [WED201c] - Web Design
 
 ### Author
-  Le Thi Cam Nhu - SE140801
-  FPT University
+  * Le Thi Cam Nhu - SE140801
+  * FPT University
 
 ### Program Languages
-  HTML  
-  CSS
-  JavaScript
+  * HTML  
+  * CSS
+  * JavaScript
 
 #### Connect me via
 [My Facebook](https://www.facebook.com/lenhu0511)  
