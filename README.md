@@ -1,5 +1,5 @@
 ## Welcome to Stellar Restaurant Website Repository.
-[![FontEnd project | © 2021 by lenhu]
+
 ## [WED201c] - Web Design
 
 ### Author
